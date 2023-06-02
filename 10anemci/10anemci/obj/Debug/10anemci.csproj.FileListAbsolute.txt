@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\bin\Debug\10anemci.exe.config
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\bin\Debug\10anemci.exe
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\bin\Debug\10anemci.pdb
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\obj\Debug\10anemci.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\obj\Debug\10anemci.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\obj\Debug\10anemci.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\obj\Debug\10anemci.exe
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\10anemci\10anemci\obj\Debug\10anemci.pdb

@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\bin\Debug\zavedemie_valeri.exe.config
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\bin\Debug\zavedemie_valeri.exe
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\bin\Debug\zavedemie_valeri.pdb
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\obj\Debug\zavedemie_valeri.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\obj\Debug\zavedemie_valeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\obj\Debug\zavedemie_valeri.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\obj\Debug\zavedemie_valeri.exe
+C:\Users\STUDENTS-1409-13\Desktop\valeri10a\zavedemie_valeri\zavedemie_valeri\obj\Debug\zavedemie_valeri.pdb
